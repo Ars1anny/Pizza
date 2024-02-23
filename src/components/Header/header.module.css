@@ -1,0 +1,25 @@
+.header {
+    background-color: crimson;
+    width: auto;
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+
+.logo {
+    width: 60px;
+    height: 60px;
+    margin-left: 50px;
+
+}
+
+
+.title {
+    color: black;
+    font-family: monospace;
+    font-size: 28px;
+
+}

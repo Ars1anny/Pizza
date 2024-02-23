@@ -1,0 +1,28 @@
+.box {
+    margin-top: 150px;
+    margin-left: 50px;
+
+}
+
+
+.secondBox {
+    display: flex;
+    align-items: end;
+    margin-top: 150px;
+    margin-left: 160px;
+
+}
+
+
+.info {
+    color: crimson;
+    font-family: monospace;
+    
+}
+
+
+.img {
+    width: 150px;
+    height: 150px;
+
+}

@@ -1,0 +1,14 @@
+body {
+  background-color: wheat;
+
+}
+
+
+.links {
+  display: flex;
+  justify-content: space-around;
+  width: 300px;
+
+}
+
+

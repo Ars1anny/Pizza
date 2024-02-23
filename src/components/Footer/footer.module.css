@@ -1,0 +1,26 @@
+.footer {
+    background-color: crimson;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: auto;
+    height: 150px;
+    margin-bottom: 0px;
+    
+
+}
+
+
+.wish {
+    color: black;
+    font-family: monospace;
+
+}
+
+
+.footerTitle {
+    color: black;
+    font-family: monospace;
+
+}

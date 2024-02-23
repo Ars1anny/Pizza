@@ -1,0 +1,28 @@
+.linksBox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+
+.links {
+    color: white;
+    background-color: crimson;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    margin-left: 50px;
+
+}
+
+
+.space {
+    color: wheat;
+    
+}
+

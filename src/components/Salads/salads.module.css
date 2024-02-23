@@ -1,0 +1,46 @@
+.container {
+    background-color: crimson;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    margin-left: 500px;
+    margin-top: 100px;
+    
+}
+
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.img {
+    width: 100px;
+    height: 100px;
+
+}
+
+
+.food {
+    color: white;
+    font-family: monospace;
+    
+}
+
+
+.ingredients {
+    color: white;
+    font-family: monospace;
+
+}
+
+
+.price {
+    color: goldenrod;
+
+}
